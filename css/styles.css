@@ -1,0 +1,36 @@
+body{
+    background-color: #ebe6e6;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    flex-direction: col;
+}
+
+.userList{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    border-radius: 5rem;
+}
+
+#app{
+    display: flex;
+    width: 30rem;
+    height: min-content;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: rgb(255, 255, 255);
+    padding: 2rem;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.cart{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    flex-direction: column;
+    width: min-content
+}
